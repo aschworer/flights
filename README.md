@@ -1,2 +1,3 @@
 # flights
-Sample project aimed to learn Java SDK and best practices (2006) - simple console flight manager
+Simple console flight manager, 2006
+Sample project aimed to learn Java SDK and best practices
